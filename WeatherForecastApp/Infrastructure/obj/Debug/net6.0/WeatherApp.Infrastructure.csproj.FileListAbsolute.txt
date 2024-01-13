@@ -1,0 +1,11 @@
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\bin\Debug\net6.0\WeatherApp.Infrastructure.deps.json
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\bin\Debug\net6.0\WeatherApp.Infrastructure.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\bin\Debug\net6.0\WeatherApp.Infrastructure.pdb
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.AssemblyInfo.cs
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\refint\WeatherApp.Infrastructure.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.pdb
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\ref\WeatherApp.Infrastructure.dll
