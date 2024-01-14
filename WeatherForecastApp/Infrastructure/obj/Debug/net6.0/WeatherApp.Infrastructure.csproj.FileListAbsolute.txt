@@ -9,3 +9,9 @@ C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Deb
 C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\refint\WeatherApp.Infrastructure.dll
 C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.pdb
 C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\ref\WeatherApp.Infrastructure.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\bin\Debug\net6.0\WeatherApp.Application.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\bin\Debug\net6.0\WeatherApp.Domain.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\bin\Debug\net6.0\WeatherApp.Application.pdb
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\bin\Debug\net6.0\WeatherApp.Domain.pdb
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\Infrastructure\obj\Debug\net6.0\WeatherApp.Infrastructure.csproj.CopyComplete

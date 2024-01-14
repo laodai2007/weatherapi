@@ -31,3 +31,10 @@ C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\obj\Debug\net7.
 C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\obj\Debug\net7.0\webapi.pdb
 C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\obj\Debug\net7.0\webapi.genruntimeconfig.cache
 C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\obj\Debug\net7.0\ref\webapi.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\bin\Debug\net7.0\WeatherApp.Application.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\bin\Debug\net7.0\WeatherApp.Domain.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\bin\Debug\net7.0\WeatherApp.Infrastructure.dll
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\bin\Debug\net7.0\WeatherApp.Infrastructure.pdb
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\bin\Debug\net7.0\WeatherApp.Application.pdb
+C:\Users\trong\source\repos\weatherapi\WeatherForecastApp\webapi\bin\Debug\net7.0\WeatherApp.Domain.pdb

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "WeatherApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WeatherApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherApp.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WeatherApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WeatherApp.Domain/WeatherApp.Domain.csproj",
+      "msbuildProject": "../WeatherApp.Domain/WeatherApp.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "WeatherApp.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\trong\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\trong\\source\\repos\\weatherapi\\WeatherForecastApp\\WeatherApp.Domain\\WeatherApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\trong\\source\\repos\\weatherapi\\WeatherForecastApp\\WeatherApp.Domain\\WeatherApp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

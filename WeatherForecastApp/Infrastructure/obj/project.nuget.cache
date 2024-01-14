@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wGSlVsR4wN0gKypoG7QC/WOhl3uZKRbb46Qm6+bBv3CAa+SD/KtK8cHqS1Gm8PMqG92LfvVGDB4Cu1AFIzqLOQ==",
+  "dgSpecHash": "Str4T5tYdfxuCGSGvYJSbTNoolcfxan2nt75erhDBq5DrQX7FE/Hku7lwndj3Zsr2kmdoii7TEhFVKoppma6PQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\trong\\source\\repos\\weatherapi\\WeatherForecastApp\\Infrastructure\\WeatherApp.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\trong\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

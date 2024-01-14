@@ -8,8 +8,9 @@ namespace WeatherApp.Domain.Entities
 {
     public class WeatherInfoDTO
     {
-        public Request Request { get; set; }
-        public Location Location { get; set; }
-        public Current Current { get; set; }
+        public string? LocationName { get; set; }
+        public decimal UVIndex { get; set; }
+        public decimal WindSpeed { get; set; }
+        public List<string>? WeatherDescriptions { get; set; }
     }
 }

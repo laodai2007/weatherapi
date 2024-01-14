@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "WeatherApp.Application/1.0.0": {
+        "dependencies": {
+          "WeatherApp.Domain": "1.0.0"
+        },
         "runtime": {
           "WeatherApp.Application.dll": {}
+        }
+      },
+      "WeatherApp.Domain/1.0.0": {
+        "runtime": {
+          "WeatherApp.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "WeatherApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherApp.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
